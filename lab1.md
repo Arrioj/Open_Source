@@ -10,6 +10,7 @@
 
 ##Regex Beginner Puzzles ![RegexBeginner](http://puu.sh/mOpfx/0e6de2efaa.png)
 
-##Man-Tree ![Ubuntu](http://puu.sh/mOqS4/118f1f9eb1.png)
+##Man-Tree 
+![Ubuntu](http://puu.sh/mOqS4/118f1f9eb1.png)
 
 ##Blocky Maze: ![Maze](http://puu.sh/mOsWi/8b0d80b620.png)
