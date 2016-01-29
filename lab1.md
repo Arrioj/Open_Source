@@ -5,3 +5,5 @@
 ######Be open to advice and evne if you have already performed actions the help is asking you to do, retry just incase you had done it incorrectly the first time
 
 ##Regex: ![Regex](http://puu.sh/mOmDV/57c43c871e.png)
+
+##Regex Puzzles: ![Regeex](http://puu.sh/mOn6G/6fa217ffe8.png)
