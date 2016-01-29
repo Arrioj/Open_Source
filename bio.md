@@ -1,2 +1,2 @@
 ####Jacob Arriola(Arrioj)
-####Photo: 
+####Photo: ![Arriola](bioimg.png)
