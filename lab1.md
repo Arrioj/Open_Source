@@ -7,3 +7,5 @@
 ##Regex: ![Regex](http://puu.sh/mOmDV/57c43c871e.png)
 
 ##Regex Puzzles: ![Regeex](http://puu.sh/mOn6G/6fa217ffe8.png)
+
+##Regex Beginner Puzzles ![RegexBeginner](http://puu.sh/mOpfx/0e6de2efaa.png)
