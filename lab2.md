@@ -15,7 +15,7 @@ They also regulate the process on how something is modified and distributed (i.e
 7. The GPL license is better for the common good as it allows users to modify the code anyway they want. The Apache license is best used for developers because it shows the original developers are contributors and keeps them from being liable for any damage done by further modifications. The LGPL license is best for companies because it prevents modifications from creating a sublicense of their source code.
 
 
-| Website |   	License |    Present License |
+| Website |--------|	License |-------|    Present License |
 
 
 | https://github.com/AutoRoute/node |	|	Y	|	| MIT license |
