@@ -16,4 +16,4 @@
 ##Blocky Maze: ![Maze](http://puu.sh/mOsWi/8b0d80b620.png)
 
 ##Project Ideas:
-  ####Possibly creating a better chat system for a game
+  ####Possibly creating a better chat system for a game. Often games have a chat system that is not fluid enough to properly communicate between players while still being able to play. Allowing for pre-set commands or text to be sent quickly at the touch of a button can be important to being to make quick decisions are just keep the player from taking a hand off a mouse or controller.
