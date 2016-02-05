@@ -16,9 +16,14 @@ They also regulate the process on how something is modified and distributed (i.e
 
 
 | Website |	License | Present License |
+
 ---| |---| |---
 | https://github.com/AutoRoute/node |	|	Y	|	| MIT license |
+
 | http://sharpnav.com/ | |	Y |	| MIT license |
+
 | https://github.com/astonshane/davisputnamGo |	| Y |	| MIT license |
+
 | https://github.com/tassiahmed/SplitScreen |	| Y |	| Apache license |
+
 | https://github.com/Rlin06/gatekeeper | | Y	|	| MIT license |
