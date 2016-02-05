@@ -4,7 +4,7 @@
 2. Licenses define how a program can be shared modified and used.
 They also regulate the process on how something is modified and distributed (i.e whether or not the name must be changed after modification or if the original source code needs to be included when shared)
 
-3. If the project doesn't have an explicit license then someone can alter the source code and creat a modified version that they can then limit who can use said project.  
+3. Licenses protext both the developers and the users woh create modifications and without a license both can be hurt due to lack of regulation on how a product is distributed and or modified
 
 4. The claim written explains much of why the Gopher project was inferior in both technological and societal standpoints, and while the points made are true I think that a lot of boils down to luck. Between two formats that are nearly identical in product, even if one performs the task better than the other that does not necesarrily mean that it will be the more favored product. In short, even if the Gopher project had been in all ways superior to the Web, it is entirely possible that it still would have failed due to some other factor, like the Web being discovered first and taking off before Gopher could make a name for itself.
 
