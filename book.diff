@@ -1,0 +1,13 @@
+Index: book.sgml
+===================================================================
+--- book.sgml	(revision 48199)
++++ book.sgml	(working copy)
+@@ -1111,7 +1111,7 @@
+ 	    parent company of the <ulink
+ 	      url="http://www.freebsdmall.com/">&os; Mall</ulink>,
+ 	    provides commercial &os; and PC-BSD software <ulink
+-	      url="http://www.ixsystems.com/bsdsupport">support</ulink>,
++	      url="http://www.ixsystems.com/support">support</ulink>,
+ 	    in addition to &os; development and tuning solutions.</para>
+ 
+ 	  <para>BSD Certification Group, Inc. provides system
