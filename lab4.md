@@ -3,3 +3,7 @@ Fixed support link in <https://svnweb.freebsd.org/doc/release/9.0.0/en_US.ISO885
 Good documentation is important to maintain a solid foundation for edits and fixes performed to a file.
 
 Learned how to submit bugfixes and checkout files from a subversion client.
+
+Bug Fixes:
+<https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=207351>
+<https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=207354>
