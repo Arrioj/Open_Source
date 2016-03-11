@@ -149,4 +149,4 @@ remotes/origin/use_node_v4
 
 ## Youtube Vids:
 
-[Habit RPG!]<https://www.youtube.com/watch?v=66lRJL7SjlQ&feature=youtu.be>
+[Habit RPG](https://www.youtube.com/watch?v=66lRJL7SjlQ&feature=youtu.be)
