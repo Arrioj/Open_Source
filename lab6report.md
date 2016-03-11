@@ -150,3 +150,5 @@ remotes/origin/use_node_v4
 ## Youtube Vids:
 
 [Habit RPG](https://www.youtube.com/watch?v=66lRJL7SjlQ&feature=youtu.be)
+[TABle 5](https://www.youtube.com/watch?v=n_7dLFs7qoA&feature=youtu.be)
+[Shuttle Tracking](https://www.youtube.com/watch?v=O7YU-3ULJyc&feature=youtu.be)
